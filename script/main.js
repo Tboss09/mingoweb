@@ -45,3 +45,21 @@ var x = setInterval(function () {
     }
 
 }, 1000);
+
+
+// AutoPlay Gallery
+
+
+// SLDER BEGUN
+$('.galleryImages__imgContainer').slick({
+    autoplay: true,
+    autoplaySpeed: 1500,
+    arrow: true,
+    centermood: true,
+    slidesToShow: 3,
+    initialSlide: 0,
+    infinite: true,
+    prevArrow: '<button type = "button" class="slick-prev slick__btn">Previous</button>',
+    nextArrow: '<button type = "button" class="slick-next slick__btn">Previous</button>'
+});
+
