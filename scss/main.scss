@@ -48,17 +48,46 @@ body {
 
 
     }
+
+    &__btn {
+        display: flex;
+        align-items: center;
+        margin-bottom: 5vh;
+        justify-content: flex-end;
+        margin-right: 4vh;
+
+        a {
+            border: 1px solid #2A166F;
+            letter-spacing: 2px;
+            font-weight: 700;
+            color: #2A166F;
+            padding: 10px 25px;
+
+                transition: 0.4s background,
+                    0.4s color;
+
+            &:hover {
+                background: #29166fa2;
+                
+                transition: 0.4s background,
+                    0.4s color;
+                    
+                
+                color: white;
+            }
+        }
+    }
 }
 
 // 
 .slick {
     &__btn {
         background: #2A166F;
-        height:40px;
-        width:60px;
+        height: 40px;
+        width: 60px;
         font-family: 'Lato' !important;
         z-index: 1000000;
-        
+
 
         &::before {
             font-family: 'Lato' !important;
@@ -68,12 +97,12 @@ body {
             background: #2A166F;
         }
     }
-    
-    &-prev{
-        left:10px;
+
+    &-prev {
+        left: 10px;
     }
 
-    &-next{
+    &-next {
         right: 14px;
     }
 }

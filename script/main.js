@@ -53,7 +53,7 @@ var x = setInterval(function () {
 // SLDER BEGUN
 $('.galleryImages__imgContainer').slick({
     autoplay: true,
-    autoplaySpeed: 1500,
+    autoplaySpeed: 1000,
     arrow: true,
     centermood: true,
     slidesToShow: 3,
