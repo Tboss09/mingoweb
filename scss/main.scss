@@ -28,10 +28,38 @@ body {
 }
 
 .galleryImages {
+
+    &__text {
+        text-align: center;
+        margin: 15vh 0px -2vh 0px;
+        //<h3>Gallery Collections</h3> 
+
+        h3 {
+            font-size: 26px !important;
+        }
+    }
+
     &__img {
         margin: 15px;
         max-width: 100%;
         max-height: 400px;
+        position: relative;
+
+
+        // Caption On Gallery Collections Image 
+        &::after {
+            color: white;
+            height: 9.5vh;
+            width: 100%;
+            padding-top: 2vh;
+            font-size: 18px;
+            font-family: 'Lato', sans-serif;
+            text-indent: 10px;
+            background: #29166fa1;
+            top: 70%;
+            position: absolute;
+            content: "Easter Festive Celebration";
+        }
 
         img {
             object-fit: contain;
@@ -39,7 +67,7 @@ body {
         }
     }
 
-    &__imgContainer {
+    &__imgcontainer {
         display: flex;
         align-items: center;
         justify-content: center;
@@ -63,23 +91,23 @@ body {
             color: #2A166F;
             padding: 10px 25px;
 
-                transition: 0.4s background,
-                    0.4s color;
+            transition: 0.4s background,
+                0.4s color;
 
             &:hover {
                 background: #29166fa2;
-                
+
                 transition: 0.4s background,
                     0.4s color;
-                    
-                
+
+
                 color: white;
             }
         }
     }
 }
 
-// 
+//Slick Gallery Showcase
 .slick {
     &__btn {
         background: #2A166F;
@@ -105,4 +133,9 @@ body {
     &-next {
         right: 14px;
     }
+}
+
+// nav-item dropdown
+.nav-item.dropdown {
+    margin-bottom: 1.5vh !important;
 }
