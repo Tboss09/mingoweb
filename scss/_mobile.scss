@@ -1,0 +1,16 @@
+//Latest Sermons Button Redo
+@media screen and (max-width:767px) {
+    .btn {
+        font-size: 1rem !important;
+        padding: 1rem 2rem !important;
+        font-weight: 500;
+        color: #29166f54;
+
+        &.sermon {
+            font-weight: 500;
+            background: #fff !important;
+            color: #2A166F !important;
+            border: 1px #2A166F solid !important;
+        }
+    }
+}

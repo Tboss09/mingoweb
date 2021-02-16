@@ -44,7 +44,6 @@ var x = setInterval(function () {
 
 
 // AutoPlay Gallery
-
 $(window).on('resize orientationchange', function () {
     $('.galleryImages__imgContainer').slick('resize');
 });

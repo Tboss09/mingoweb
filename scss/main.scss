@@ -56,7 +56,7 @@ body {
             font-family: 'Lato', sans-serif;
             text-indent: 10px;
             background: #29166fa1;
-            top: 70%;
+            top: 68%;
             position: absolute;
             content: "Easter Festive Celebration";
         }
@@ -139,3 +139,9 @@ body {
 .nav-item.dropdown {
     margin-bottom: 1.5vh !important;
 }
+
+
+
+
+// Mobile  Responsive 
+@import './mobile';
