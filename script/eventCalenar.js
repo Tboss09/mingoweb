@@ -603,7 +603,6 @@ var data = {
 
 
             10: [ //10th Day Of The Month
-
                 {
                     startTime: `--`,
                     endTime: ` --`,
@@ -722,7 +721,6 @@ var data = {
                 }
             ],
 
-
             19: [ //19th Day Of The Month
                 {
                     startTime: `--`,
@@ -783,10 +781,17 @@ var data = {
             ],
 
             24: [ //24th Day Of The Month
+
                 {
                     startTime: `--`,
                     endTime: `--`,
                     text: `Conference Youth Week `
+                },
+
+                {
+                    startTime: `--`,
+                    endTime: `--`,
+                    text: `Youth Empowerment Programme anchor by Women's Fellowship at Diocesan level`
                 }
             ],
 
@@ -795,11 +800,335 @@ var data = {
                     startTime: `--`,
                     endTime: `--`,
                     text: `Conference Youth Week `
+                },
+
+                {
+                    startTime: `--`,
+                    endTime: `--`,
+                    text: `Youth Empowerment Programme anchor by Women's Fellowship at Diocesan level`
+                }
+            ],
+
+        },
+
+
+
+        08: { //Rep Month Of Aug
+
+            1: [ //First Day Of The Month
+                {
+                    startTime: `--`,
+                    endTime: `--`,
+                    text: `Prayer And Fasting in all Local Churches `
+                }
+            ],
+
+            2: [ //2nd Day Of The Month
+                {
+                    startTime: `--`,
+                    endTime: `--`,
+                    text: `Prayer And Fasting in all Local Churches `
+                },
+
+                {
+                    startTime: `--`,
+                    endTime: `--`,
+                    text: `National Convention at Enugu `
+                },
+
+            ],
+
+            3: [ //3rd Day Of The Month
+                {
+                    startTime: `--`,
+                    endTime: `--`,
+                    text: `Prayer And Fasting in all Local Churches `
+                },
+
+                {
+                    startTime: `--`,
+                    endTime: `--`,
+                    text: `National Convention at Enugu `
+                },
+
+            ],
+
+            4: [ //4th Day Of The Month
+                {
+                    startTime: `--`,
+                    endTime: `--`,
+                    text: `National Convention at Enugu `
+                },
+
+            ],
+
+            5: [ //5th Day Of The Month
+                {
+                    startTime: `--`,
+                    endTime: `--`,
+                    text: `National Convention at Enugu `
+                },
+
+            ],
+
+            6: [ //6th Day Of The Month
+                {
+                    startTime: `--`,
+                    endTime: `--`,
+                    text: `National Convention at Enugu `
+                },
+
+            ],
+
+            7: [ //7th Day Of The Month
+                {
+                    startTime: `--`,
+                    endTime: `--`,
+                    text: `National Convention at Enugu `
+                },
+
+            ],
+
+
+            20: [ //20th Day Of The Month
+                {
+                    startTime: `--`,
+                    endTime: `--`,
+                    text: `49th Conference Connexional Council at MTI,Umuahia`
+                },
+
+                {
+                    startTime: `--`,
+                    endTime: `--`,
+                    text: `National Youth Election : Youth Work Center, Wesley College Compound, Elekuro ,Ibadan `
+                },
+            ],
+
+        },
+
+        09: { //Rep Month Of Sept
+
+            1: [ //First Day Of The Month
+
+                {
+                    startTime: `--`,
+                    endTime: `--`,
+                    text: `Prayer And Fasting in all Local Churches `
+                },
+
+                {
+                    startTime: `--`,
+                    endTime: `--`,
+                    text: `Youth National Convention (Dinner, Awards and Handling over)- Archdiocese of Aba`
+                },
+
+            ],
+
+            2: [ //2nd Day Of The Month
+                {
+                    startTime: `--`,
+                    endTime: `--`,
+                    text: `Prayer And Fasting in all Local Churches `
+                },
+
+                {
+                    startTime: `--`,
+                    endTime: `--`,
+                    text: `Youth National Convention (Dinner, Awards and Handling over)- Archdiocese of Aba`
+                },
+
+            ],
+
+
+            3: [ //3rd Day Of The Month
+                {
+                    startTime: `--`,
+                    endTime: `--`,
+                    text: `Prayer And Fasting in all Local Churches `
+                },
+
+                {
+                    startTime: `--`,
+                    endTime: `--`,
+                    text: `Youth National Convention (Dinner, Awards and Handling over)- Archdiocese of Aba`
+                },
+
+                {
+                    startTime: `--`,
+                    endTime: `--`,
+                    text: `Prelate Uche Youth 4th national Bible Quiz/Essay Competition -Diocese of Owerri`
+                },
+            ],
+
+
+
+            4: [ //4th Day Of The Month
+                {
+                    startTime: `--`,
+                    endTime: `--`,
+                    text: `Youth National Convention (Dinner, Awards and Handling over)- Archdiocese of Aba`
+                },
+
+                {
+                    startTime: `--`,
+                    endTime: `--`,
+                    text: `Prelate Uche Youth 4th national Bible Quiz/Essay Competition -Diocese of Owerri`
+                },
+            ],
+
+
+            5: [ //5th Day Of The Month
+
+                {
+                    startTime: `--`,
+                    endTime: `--`,
+                    text: `Youth National Convention (Dinner, Awards and Handling over)- Archdiocese of Aba`
+                },
+
+                {
+                    startTime: `--`,
+                    endTime: `--`,
+                    text: `Prelate Uche Youth 4th national Bible Quiz/Essay Competition -Diocese of Owerri`
+                },
+
+
+            ],
+
+            6: [ //6th Day Of The Month
+
+                {
+                    startTime: `--`,
+                    endTime: `--`,
+                    text: `Youth National Convention (Dinner, Awards and Handling over)- Archdiocese of Aba`
+                },
+            ],
+
+        },
+
+        10: { //Rep Month of Oct   
+
+            1: [ //First Day Of The Month
+                {
+                    startTime: `--`,
+                    endTime: `--`,
+                    text: `Prayer And Fasting in all Local Churches `
+                }
+            ],
+
+            2: [ //Second Day Of The Month
+                {
+                    startTime: `--`,
+                    endTime: `--`,
+                    text: `Prayer And Fasting in all Local Churches `
+                }
+            ],
+
+            3: [ //Third Day Of The Month
+                {
+                    startTime: `--`,
+                    endTime: `--`,
+                    text: `Prayer And Fasting in all Local Churches `
+                }
+            ],
+
+        },
+
+        11: { //Rep Month of November   
+
+            1: [ //First Day Of The Month
+                {
+                    startTime: `--`,
+                    endTime: `--`,
+                    text: `Prayer And Fasting in all Local Churches `
+                }
+            ],
+
+            2: [ //Second Day Of The Month
+                {
+                    startTime: `--`,
+                    endTime: `--`,
+                    text: `Prayer And Fasting in all Local Churches `
+                }
+            ],
+
+            3: [ //Third Day Of The Month
+                {
+                    startTime: `--`,
+                    endTime: `--`,
+                    text: `Prayer And Fasting in all Local Churches `
+                }
+            ],
+
+            12: [ //12th Day Of The Month
+                {
+                    startTime: `--`,
+                    endTime: `--`,
+                    text: `50th Conference Connexional Council at Hoare's memorial Methodist Cathedral, Sabo-Yaba ,Lagos`
+                }
+            ],
+
+            13: [ //13th Day Of The Month
+                {
+                    startTime: `--`,
+                    endTime: `--`,
+                    text: `Consecration of Bishops, Induction of Lay President At Methodist Church of the Trinity, Tinubu,Lagos `
                 }
             ],
 
         }
-    }
+        ,
+        12: { //Rep Month of December   
+
+            1: [ //First Day Of The Month
+                {
+                    startTime: `--`,
+                    endTime: `--`,
+                    text: `Prayer And Fasting in all Local Churches `
+                }
+            ],
+
+            2: [ //Second Day Of The Month
+                {
+                    startTime: `--`,
+                    endTime: `--`,
+                    text: `Prayer And Fasting in all Local Churches `
+                }
+            ],
+
+            3: [ //Third Day Of The Month
+                {
+                    startTime: `--`,
+                    endTime: `--`,
+                    text: `Prayer And Fasting in all Local Churches `
+                }
+            ],
+
+            5: [ //Third Day Of The Month
+                {
+                    startTime: `--`,
+                    endTime: `--`,
+                    text: `Conference Youth Christmas Concert `
+                }
+            ],
+
+            25: [ //25th Day Of The Month
+                {
+                    startTime: `--`,
+                    endTime: `--`,
+                    text: `Christmas Day Celebration `
+                }
+            ],
+
+            31: [ //25th Day Of The Month
+                {
+                    startTime: `--`,
+                    endTime: `--`,
+                    text: `Watch Night Service `
+                }
+            ],
+
+        }
+    },
 };
 
 var organizer = new Organizer(`organizerContainer`, calendar, data);
