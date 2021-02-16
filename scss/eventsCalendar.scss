@@ -2,7 +2,7 @@
 
 #calendarContainer {
     //As the name implies, It is the Calendar Container
-    width:100%;
+    width: 100%;
     margin: 0 auto;
     margin-top: 10vh;
 
@@ -21,8 +21,7 @@
 }
 
 #organizerContainer {
-    // width: 50%;
-    // float:right;
+    width: 100%;
 
     .cjslib {
         &-events {
@@ -45,4 +44,21 @@
             }
         }
     }
+}
+
+#organizerContainer-list-item-0-time{
+    display: none;
+}
+
+// media Query Here
+
+@media screen and (min-width:1024px) {
+
+    .eventCalendar {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 20vh;
+    }
+    
 }
