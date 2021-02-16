@@ -1,1 +1,2 @@
-/* No CSS *//*# sourceMappingURL=eventsCalendar.css.map */
+#calendarContainer{width:100%;margin:0 auto;margin-top:10vh}#calendarContainer .cjslib-calendar{width:90%;margin:0 auto}#calendarContainer .cjslib-calendar>div{width:100%}#organizerContainer .cjslib-events{width:90%;margin:10vh auto;height:300px}#organizerContainer .cjslib-date{width:100%;height:10vh}#organizerContainer .cjslib-list-placeholder{padding:2vh}
+/*# sourceMappingURL=eventsCalendar.css.map */
